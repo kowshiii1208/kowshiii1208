@@ -93,7 +93,7 @@ A smart assistant to help users with medical information, appointment booking, a
 
 I'm always excited to connect with fellow developers, mentors, and learners. Feel free to reach out!
 
-**Email:** `your.email@example.com`
+**Email:** 'kowshiii1208@gmail.com`
 
 ---
 
