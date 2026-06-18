@@ -155,11 +155,11 @@ fun_fact: "Solved 100+ LeetCode & 850+ CodeChef problems before finishing 1st ye
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  📘 SSC    ─ ZPHS Venkatachalam, Nellore               ─  91.33%         ║
-║  📗 +2     ─ Viswasai Educational Institutions, Nellore ─  97.8%  ⭐     ║
-║  📙 B.Tech ─ Aditya University, Surampalem, Kakinada    ─  1st Year 🚀   ║
+║  📘 SSC    ─ ZPHS Venkatachalam, Nellore                ─  91.33% ⭐    ║
+║  📗 +2     ─ Viswasai Educational Institutions, Nellore ─  97.8%  ⭐    ║
+║  📙 B.Tech ─ Aditya University, Surampalem, Kakinada    ─  1st Year 🚀  ║
 ╠══════════════════════════════════════════════════════════════════════════╣
-║  📜 Certifications                                                        ║
+║  📜 Certifications                                                       ║
 ║      ✔  Python Essentials 1  ─  Cisco NetAcad                            ║
 ║      ✔  C Essentials 1       ─  Cisco NetAcad                            ║
 ╚══════════════════════════════════════════════════════════════════════════╝
