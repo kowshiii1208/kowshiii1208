@@ -139,8 +139,9 @@ fun_fact: "Solved 100+ LeetCode & 850+ CodeChef problems before finishing 1st ye
 
 | 🏅 Platform | 🔗 Profile | 🎯 Achievement |
 |:---:|:---:|:---:|
-| 🟡 **LeetCode** | [Kowshik_Kumar](https://leetcode.com/u/Kowshik_Kumar) | ✅ **100+ Problems Solved** |
-| 🔴 **CodeChef** | [kowshiii_1208](https://www.codechef.com/users/kowshiii_1208) | 🔥 **850+ Problems Solved** |
+| 🟡 **LeetCode** | [Kowshik_Kumar](https://leetcode.com/u/Kowshik_Kumar) | ✅ **150+ Problems Solved** |
+| 🔴 **CodeChef** | [kowshiii_1208](https://www.codechef.com/users/kowshiii_1208) | 🔥 **1000+ Problems Solved** |
+| 🔵 **GeeksforGeeks** | [kowshii6ran](https://www.geeksforgeeks.org/profile/kowshii6ran) | 💻 **120+ Problems solved** |
 | 🟢 **HackerRank** | [kowshiii1208](https://www.hackerrank.com/profile/kowshiii1208) | ⚡ Actively Practicing |
 
 <br/>
