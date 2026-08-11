@@ -49,9 +49,6 @@ fun_fact: "Solved 100+ LeetCode & 850+ CodeChef problems before finishing 1st ye
 
 <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" alt="HTML5"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" alt="CSS3"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60" alt="React"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60" height="60" alt="TypeScript"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60" height="60" alt="Tailwind CSS"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="60" height="60" alt="Vite"/></a>
 
 <br/><br/>
@@ -62,10 +59,7 @@ fun_fact: "Solved 100+ LeetCode & 850+ CodeChef problems before finishing 1st ye
 
 <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" height="60" alt="Python"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="60" height="60" alt="Java"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60" alt="Node.js"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="60" height="60" alt="Supabase"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60" height="60" alt="MySQL"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60" height="60" alt="MongoDB"/></a>
 
 <br/><br/>
 
@@ -77,7 +71,7 @@ fun_fact: "Solved 100+ LeetCode & 850+ CodeChef problems before finishing 1st ye
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" height="60" alt="C++"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" alt="VS Code"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" alt="GitHub"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60" height="60" alt="Next.js"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60" height="60" alt="python"/></a>
 
 </div>
 
